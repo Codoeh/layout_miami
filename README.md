@@ -1,1 +1,0 @@
-The website meets all the requirements of the task. It is adapted to various display widths. The form has hidden labels to make it more accessible to people using screen readers. The menu is fully functional. The website has animated transitions, buttons and photos.
